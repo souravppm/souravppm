@@ -25,10 +25,7 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=souravppm&show_icons=true&theme=radium&hide_border=true" alt="Sourav's GitHub Stats" />
-</p>
+![Sourav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=souravppm&show_icons=true&theme=radium&hide_border=true)
 
 <p align="center">
   <i>"I build AI systems that solve real-world business problems."</i>
