@@ -7,13 +7,13 @@
 
 ---
 
-### 🧠 My Core Focus
+### My Core Focus
 * **Generative AI & LLMs:** Building enterprise-grade apps with LangChain, LlamaIndex, and OpenAI APIs.
 * **Computer Vision & NLP:** Exploring deep learning architectures (Wav2Vec2, CNNs).
 * **AI Backend & MLOps:** Deploying scalable models using FastAPI, Streamlit, and cloud infrastructure.
 * **Technical Leadership:** Managing end-to-end tech delivery and aligning business logic with AI capabilities.
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
