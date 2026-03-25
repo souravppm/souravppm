@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Sourav! 👋</h1>
+<h1 align="center">Hi there, I'm Sourav!👋</h1>
 <h3 align="center">AI/ML Engineer | Ex-Founder | Building Advanced GenAI & RAG Systems</h3>
 
 <p align="center">
