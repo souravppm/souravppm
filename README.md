@@ -112,19 +112,5 @@ I enjoy designing AI systems that combine modern machine learning capabilities w
 ---
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=souravppm&show_icons=true&theme=tokyonight&hide_border=true" />
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=souravppm&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
-
-<p align="center">
 <b>“I build AI systems focused on real-world automation, reliability, and scalable engineering.”</b>
 </p>
